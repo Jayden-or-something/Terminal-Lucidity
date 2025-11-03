@@ -1,0 +1,1 @@
+npx --yes @strudel/sampler --json > strudel.json
