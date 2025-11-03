@@ -1,1 +1,2 @@
 npx --yes @strudel/sampler --json > strudel.json
+"_base": "https://raw.githubusercontent.com/Jayden-or-something/Terminal-Lucidity/main/"
